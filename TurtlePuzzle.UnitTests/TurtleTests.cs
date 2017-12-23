@@ -9,7 +9,7 @@ namespace TurtlePuzzle.UnitTests
     using TurtlePuzzle.Core;
 
     /// <summary>
-    /// Unit Test Class
+    /// Unit Test Class Sample
     /// </summary>
     [TestClass]
     public class TurtleTests
